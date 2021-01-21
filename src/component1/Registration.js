@@ -15,6 +15,13 @@ class Registration extends Component{
               <input className='form-control' placeholder="email id"/>
 
               <input className='form-control mt-3' placeholder="Password" type='password'/>
+              <div>
+              <button className="btn btn-warning">Sign in</button>
+            </div>
+            <div className="text-warning">
+            New user please register
+            </div>
+
 
             </div>
         )
